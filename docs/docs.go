@@ -1,5 +1,4 @@
-package docs
-
+packag
 import "embed"
 
 //go:embed static
